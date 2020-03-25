@@ -1,0 +1,19 @@
+.background {
+  background: url(../../../images/background.jpg) no-repeat;
+  background-size: cover;
+  /* position: fixed; */
+  margin-top: 100px;
+  left: 0;
+  right: 0;
+  width: 100%;
+  min-height:250px;
+  margin-bottom: 20px;
+  display: flex;
+  /* padding : 10px 0px 0px 40px; */
+}
+
+.headding{
+color : #fff;
+margin-left : 40px;
+margin-top: 40px;
+}
